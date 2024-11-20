@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
-import java.util.Scanner;
-
 
 class Deck {
     private static final int MAX_CARDS = 11; // Максимальное количество карт
